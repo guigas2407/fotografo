@@ -249,10 +249,18 @@ body {
 }
 .carousel-view img {
   max-width: 100%;
-  max-height: 70vh;
+  height: 500px;
   border-radius: 8px;
   object-fit: contain;
   box-shadow: 0 18px 50px rgba(0, 0, 0, 0.6);
+}
+
+.gallery-audio {
+  display: block;
+  margin: 20px auto 0 auto;
+  width: 90%;
+
+  height: 54px;
 }
 
 /* dots */
